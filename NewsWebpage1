@@ -16,14 +16,6 @@
             <div class="navigation">
                 <ul>
                     <li><a href="NewsWebpage1">HOME</a></li>
-                    <li class="dropdown">
-                        <a href="NewsWebpage2" class="dropbtn">All News</a>
-                        <div class="dropdown-content">
-                            <a href="NewsWebpage2">Sports News</a>
-                            <a href="NewsWebpage2">Weather News</a>
-                            <a href="NewsWebpage2">Business News</a>
-                        </div>
-                    </li>
                     <li><a href="NewsWebpage2">Reporters</a></li>
                     <li><a href="NewsWebpage2">About</a></li>
                 </ul>

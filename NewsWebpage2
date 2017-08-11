@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body bgcolor=white>
@@ -9,22 +9,14 @@
         <div class="row">
             <div class="header">
                 <div class="column">
-                    <img src=logo.jpg height="95" width="240">
+                    <img src=images/logo.jpg height="95" width="240">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="navigation">
                 <ul>
-                    <li><a href="NewsWebpage2">HOME</a></li>
-                    <li class="dropdown">
-                        <a href="NewsWebpage1" class="dropbtn">All News</a>
-                        <div class="dropdown-content">
-                            <a href="NewsWebpage1">Sports News</a>
-                            <a href="NewsWebpage1">Weather News</a>
-                            <a href="NewsWebpage1">Business News</a>
-                        </div>
-                    </li>
+                    <li><a href="NewsWebpage2">HOME</a></li> 
                     <li><a href="NewsWebpage1">Reporters</a></li>
                     <li><a href="NewsWebpage1">About</a></li>
                 </ul>
@@ -32,7 +24,7 @@
         </div>
         <div class="row">
             <div class="image">
-                <img src=hero.jpg height="590" width="1490">
+                <img src=images/hero.jpg height="590" width="1490">
                 <h2>BMW Launched new bike</h2>
             </div>
             <h2>When it comes to making motorcycles that are capable of taking things to the extreme, BMW Motorrad is a brand that just has to be mentioned. They are known for making bikes like the S 1000 RR and they are set to enter India on April 14, 2017.
@@ -53,10 +45,10 @@ The German luxury automaker gave its entire lineup including the S 1000 and R 12
                 </div>
                 <div class="four">
                     <ul>
-                        <li> <a href="https://www.facebook.com"><img src="facebook.png"></a></li>
-                        <li> <a href="https://www.youtube.com"><img src="youtube.png"></a></li>
-                        <li> <a href="https://twitter.com/login"><img src="twitter.png"></a></li>
-                        <li> <a href="https://www.snapchat.com/l/en-gb/"><img src="snapchat.png"></a></li>
+                        <li> <a href="https://www.facebook.com"><img src="images/facebook.png"></a></li>
+                        <li> <a href="https://www.youtube.com"><img src="images/youtube.png"></a></li>
+                        <li> <a href="https://twitter.com/login"><img src="images/twitter.png"></a></li>
+                        <li> <a href="https://www.snapchat.com/l/en-gb/"><img src="images/snapchat.png"></a></li>
                     </ul>
                 </div>
             </div>
