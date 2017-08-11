@@ -1,9 +1,11 @@
 <!DOCTYPE html>
+
 <head>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body bgcolor=white>
+<!-- Header of webpage along with logo -->
     <div class="container">
         <div class="row">
             <div class="header">
@@ -12,6 +14,8 @@
                 </div>
             </div>
         </div>
+
+<!-- Navigation Bar -->
         <div class="row">
             <div class="navigation">
                 <ul>
@@ -21,12 +25,16 @@
                 </ul>
             </div>
         </div>
+
+<!-- Hero Image -->
         <div class="row">
             <div class="image">
                 <img src=images/image2.jpg height="590" width="1490">
                 <h2>MASSIVE 8.9 EARTHQUAKE & TSUNAMIS HIT JAPAN!</h2>
             </div>
         </div>
+
+<!-- Three column section displaying the news -->
         <div class="rr">
             <div class="row">
                 <div class="row4">
@@ -53,6 +61,8 @@
                 </div>
             </div>
         </div>
+
+<!-- Two column section division -->
         <div class="row">
             <div class="row5">
                 <div class="five">
@@ -71,6 +81,8 @@
                 </div>
             </div>
         </div>
+
+<!-- Footer Section -->
         <div class="row">
             <div class="footer">
                 <div class="four">
